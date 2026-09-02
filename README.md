@@ -1,4 +1,3 @@
-## About me  
 **Name:** Alejandro Avalos  
 **Major:** Computer Engineering  
 **Graduating:** 2030  
