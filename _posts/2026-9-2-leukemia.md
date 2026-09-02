@@ -7,3 +7,4 @@ and the swelling of lymph nodes. Adidtionally, blood tests can be taken to detec
 or white blood cells. A blood marrow test can be taken to take a bone sample from the hipbone to look for leukemia cells.  
 
 ## What known factors give risk of leukemia?  
+The known factors of leukemia are divided into the two categories of genetics and radiation. People with Down syndrome, inherited bone marrow failure, or Philadelphia translocation are more likely to suffer from leukemia.
