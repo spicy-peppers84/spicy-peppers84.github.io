@@ -1,5 +1,3 @@
-# spicy-peppers84.github.io
-
 ## About me  
 **Name:** Alejandro Avalos  
 **Major:** Computer Engineering  
