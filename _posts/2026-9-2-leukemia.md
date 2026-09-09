@@ -1,7 +1,7 @@
 <p align="center">
 <img src="../_media/leukemia.webp" alt="leukemia">
 </p>
-<sub>A picture of bone marrow cells from a patient with leukemia</sub>
+<sub>A picture of bone marrow cells from a patient with leukemia. Picture from [Britannica](https://www.britannica.com/science/leukemia)</sub>
 
 ## How frequent is leukemia
 According to a 2015 article by the National Library of Medicine, there are around 2.3 million cases of leukemia. In comparison, 2005 had 2 million cases of leukemia indicating there's been a steady growth in new cases per year.  
