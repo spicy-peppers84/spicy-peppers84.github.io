@@ -7,4 +7,12 @@ and the swelling of lymph nodes. Adidtionally, blood tests can be taken to detec
 or white blood cells. A blood marrow test can be taken to take a bone sample from the hipbone to look for leukemia cells.  
 
 ## What known factors give risk of leukemia?  
-The known factors of leukemia are divided into the two categories of genetics and radiation. People with Down syndrome, inherited bone marrow failure, or Philadelphia translocation are more likely to suffer from leukemia.
+The known factors of leukemia are divided into the two categories of genetics and radiation. People with Down syndrome, inherited bone marrow failure, or Philadelphia translocation are more likely to suffer from leukemia. Increased risk of the can also come from unhealthy exposure to radiation such as Sr-90 and non-ionizing radiation.
+
+## What staging or subtypes describe the cancer?
+Leukemia doesn't have staging in the traditional sense because it doesn't form localized tumors but it does have many types depending on the cell origin and progression. These subtypes include acute leukemia, chronic leukemia, lymphocytic leukemia, myeloid leukemia, and hair cell leukemia to name a few.
+
+## What are current available treatments for leukemia?
+The treatment of leukemia depends on the type of leukemia someone has. To name a few examples, acute lymphoblastic leukemia requires chemotherapy and a stem cell transplant for extreme cases. Chronic lymphocytic leukemia is monitored but medications are introduced if it progresses into a worse state. Chronic myelogenous leukemia is treated with oral drugs like imatinib.
+
+## What is the average life expectancy for a patient with leukemia?
