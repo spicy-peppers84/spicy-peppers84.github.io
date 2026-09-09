@@ -1,4 +1,8 @@
 ![leukemia](/_media/leukemia.jpg "leukemia")
+
+<p align="center">
+<img src="/_media/leukemia.jpg" alt="leukemia" width="1600">
+</p>
 <sub>A picture of bone marrow cells from a patient with leukemia</sub>
 
 ## How frequent is leukemia
