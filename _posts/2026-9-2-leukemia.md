@@ -21,3 +21,4 @@ Leukemia doesn't have staging in the traditional sense because it doesn't form l
 The treatment of leukemia depends on the type of leukemia someone has. To name a few examples, acute lymphoblastic leukemia requires chemotherapy and a stem cell transplant for extreme cases. Chronic lymphocytic leukemia is monitored but medications are introduced if it progresses into a worse state. Chronic myelogenous leukemia is treated with oral drugs like imatinib.
 
 ## What is the average life expectancy for a patient with leukemia?
+People suffering from leukemia have a five-year survival rate that averages to 69% and averages 60-85% for children under 15, though it depends on what subtype of leukemia the patient has.
