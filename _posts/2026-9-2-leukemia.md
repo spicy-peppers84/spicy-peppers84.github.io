@@ -1,4 +1,4 @@
-![leukemia](./_media/leukemia.jpg "leukemia")
+![leukemia](/_media/leukemia.jpg "leukemia")
 <sub>A picture of bone marrow cells from a patient with leukemia</sub>
 
 ## How frequent is leukemia
