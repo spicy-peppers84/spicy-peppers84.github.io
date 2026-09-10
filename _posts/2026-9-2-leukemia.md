@@ -1,5 +1,5 @@
 <p align="center">
-<img src="../_media/leukemia.webp" alt="leukemia">
+<img src="../_media/leukemia.webp" alt="leukemia" width="1600" height="1068">
 </p>
 <sub>A picture of bone marrow cells from a patient with leukemia. Picture from [Britannica](https://www.britannica.com/science/leukemia)</sub>
 
